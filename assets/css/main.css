@@ -3670,7 +3670,7 @@ margin-bottom: -10px
 		}
 
 		body.is-preload #banner h2 {
-			opacity: 0;
+			opacity: 1;
 			-moz-transform: translateX(0.25em);
 			-webkit-transform: translateX(0.25em);
 			-ms-transform: translateX(0.25em);
@@ -3682,7 +3682,7 @@ margin-bottom: -10px
 		}
 
 		body.is-preload #banner p {
-			opacity: 0;
+			opacity: 1;
 			-moz-transform: translateX(0.5em);
 			-webkit-transform: translateX(0.5em);
 			-ms-transform: translateX(0.5em);
