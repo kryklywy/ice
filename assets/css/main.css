@@ -3234,6 +3234,14 @@ margin-bottom: -10px
 				margin-bottom: 0;
 		}
 
+		@media screen and (max-width: 980px) {
+
+			.features2 article {
+				background-color: #3a5178; 
+				margin: 1em 2em 1em 0;
+				width: calc(50% - 1em);
+			}
+
 /* Header */
 
 	#header {
